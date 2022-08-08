@@ -15,13 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](Dhruv.png)
+<img src="github-header-image.png" />
+
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/dhruv100ni/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/dhruvsoni2/practice">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG Badge"/>
+  </a>
+  
+  <a href="https://www.hackerrank.com/dhruv100ni">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
+  
+</div>
+
 
 # About Me
 <ul>
   <li><p style="text-align: justify; font-size: 40px;">Software Engineer with background in Web Development with relevant experience of internship as a front-end web     developer in a company and several projects in Python, HTML, ReactJs</p></li>
-  <li>Regaular participation in competitive coding contests on <a href="https://auth.geeksforgeeks.org/user/dhruvsoni2/profile" style="color: blue;">GeeksforGeeks</a>   </li>
-  <li>I have good knowledge of Data Structures and Algorithms.</li>
+  <li><p>Regaular participation in competitive coding contests on <a href="https://auth.geeksforgeeks.org/user/dhruvsoni2/profile" style="color: blue;">GeeksforGeeks</a></p></li>
+  <li><p>I have good knowledge of Data Structures and Algorithms.</p></li>
   <li><p style="text-align: justify; font-size: 40px;">Participated in several hackathons and coding competitions.</p></li>
 </ul>
 
