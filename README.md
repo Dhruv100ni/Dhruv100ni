@@ -70,5 +70,4 @@ Here are some ideas to get you started:
 
 <img src="firebase.png" style="width: 50px; margin-right: 2px;"/>
 <img src="github.png" style="width: 50px; margin-right: 2px;"/>
-<img src="github.png" style="width: 50px; margin-right: 2px;"/>
 <img src="vscode.png" style="width: 50px; margin-right: 10px;"/>
