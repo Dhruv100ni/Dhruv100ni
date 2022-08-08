@@ -62,8 +62,6 @@ Here are some ideas to get you started:
 <img src="C.png" style="width: 50px; margin-right: 2px;"/>
 <img src="SQL.png" style="width: 50px; margin-right: 2px;"/>
 <img src="React.png" style="width: 50px; margin-right: 2px;"/>
-<img src="node.png" style="width: 50px"/>
-
 <br>
 
 # Enviornments I work with
