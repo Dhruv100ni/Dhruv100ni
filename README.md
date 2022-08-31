@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="github-header-image.png" />
+<img src="github-header-image1.png" />
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/dhruv100ni/">
