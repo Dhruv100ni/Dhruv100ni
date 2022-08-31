@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 <img src="C.png" style="width: 50px; margin-right: 2px;"/>
 <img src="SQL.png" style="width: 50px; margin-right: 2px;"/>
 <img src="React.png" style="width: 50px; margin-right: 2px;"/>
-<img src="Figma.png" style="width: 50px; margin-right: 2px;"/>
-<img src="Flutter.jpg" style="width: 50px; margin-right: 2px;"/>
+<img src="figma.png" style="width: 50px; margin-right: 2px;"/>
+<img src="flutter.jpg" style="width: 50px; margin-right: 2px;"/>
 <br>
 
 # Enviornments I work with
