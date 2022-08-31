@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </span>
 <br>
 
-# Languages I'm good at
+# Languages and Tools
 
 <img src="python.png" style="width: 50px; margin-right: 2px;"/>
 <img src="java.png" style="width: 50px; margin-right: 2px;"/>
